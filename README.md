@@ -1,2 +1,2 @@
 # hello-world
-Muj prvni depozitar
+Muj prvni depozitar. Jsem Jana z Prahy.
